@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kgcs002, currently studying aerospace engineering and analysis and sistems development.
-- 👀 I’m interested in tuning cars ECU for trackdays, 
-- 🌱 I’m currently learning the basics of Python, Java and Salesforce.
+- 👀 I’m interested in tuning cars for trackdays, drag races and street races. Also i'm interested in studying the interior of commercial aircraft and their monuments.
+- 🌱 I’m currently learning the basics of Python, Java. 
 - 📫 How to reach me email kauansasaqui@gmail.com  
 
 <!---
