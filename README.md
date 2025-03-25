@@ -1,7 +1,52 @@
-- 👋 Hi, I’m @kgcs002, currently studying aerospace engineering and analysis and systems development.
-- 👀 Currently junior Salesforce DEV
-- 🌱 I’m currently learning the basics of Python, Java. 
-- 📫 Email kauansasaqui@gmail.com  - Instagram: @k_g_c_s
+# 👨‍💻 Kauan Sasaqui | @kgcs002
+
+### 🚀 Bem-vindo ao meu GitHub!
+
+🎯 **Quem sou eu?**  
+Professional racer 🏎️ | Tactical FPS gamer 🎮 | Photographer 📸  
+Estudante de **Engenharia Aeroespacial** ✈️ e **Análise e Desenvolvimento de Sistemas** 💻.  
+Atualmente atuando como **Desenvolvedor Salesforce Júnior** e sempre buscando novos desafios na tecnologia.
+
+---
+
+## 💻 Tecnologias e Conhecimentos
+- ☁️ Salesforce (Apex, LWC, Flows, Process Builder, SOQL/SOSL)
+- 🔎 **HTML (Avançado)**
+- 🎨 **CSS (Intermediário)**
+- 🐍 Python básico
+- ☕ Java básico
+- 🗄️ SQL (iniciando)
+- 🧠 Git e GitHub
+
+---
+
+## 🎯 Atualmente estou focado em:
+- Aprimorar minha lógica de programação
+- Aprender JavaScript e SQL
+- Projetos práticos em Python e Salesforce
+- Evoluir como Dev Salesforce e Web Developer
+
+---
+
+## 📬 Contato
+- **Email:** kauansasaqui@gmail.com
+- **Instagram:** [@k_g_c_s](https://www.instagram.com/k_g_c_s/)
+- **LinkedIn:** [kgcs02](https://www.linkedin.com/in/kgcs02/)
+
+---
+
+## ✨ Curiosidades
+- Apaixonado por **aeronaves**, **corrida**, **fotografia** e **games táticos**
+- Acredito que o código é a ferramenta que dá vida às ideias 💻🚀
+- Sempre em busca de desafios que me tirem da zona de conforto
+
+---
+
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgcs002&layout=compact&theme=dracula)
+
+</div>
 
 <!---
 kgcs002/kgcs002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
