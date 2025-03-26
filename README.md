@@ -11,8 +11,8 @@ Atualmente atuando como **Desenvolvedor Salesforce Júnior** e sempre buscando n
 
 ## 💻 Tecnologias e Conhecimentos
 - ☁️ Salesforce (Apex, LWC, Flows, Process Builder, SOQL/SOSL)
-- 🔎 **HTML (Avançado)**
-- 🎨 **CSS (Intermediário)**
+- 🔎 HTML (Avançado)
+- 🎨 CSS (Intermediário)
 - 🐍 Python básico
 - ☕ Java básico
 - 🗄️ SQL (iniciando)
@@ -47,8 +47,3 @@ Atualmente atuando como **Desenvolvedor Salesforce Júnior** e sempre buscando n
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgcs002&layout=compact&theme=dracula)
 
 </div>
-
-<!---
-kgcs002/kgcs002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
