@@ -3,7 +3,7 @@
 ### 🚀 Bem-vindo ao meu GitHub!
 
 🎯 **Quem sou eu?**  
-Professional racer 🏎️ | Tactical FPS gamer 🎮 | Photographer 📸  
+Professional racer 🏎️ | PC builder 🎮 | Photographer 📸  
 Estudante de **Engenharia Aeroespacial** ✈️ e **Análise e Desenvolvimento de Sistemas** 💻.  
 Atualmente atuando como **Desenvolvedor Salesforce Júnior** e sempre buscando novos desafios na tecnologia.
 
