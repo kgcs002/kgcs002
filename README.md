@@ -4,8 +4,8 @@
 
 🎯 **Quem sou eu?**  
 Professional racer 🏎️ | PC builder 🎮 | Photographer 📸  
-Estudante de **Engenharia Aeroespacial** ✈️ e **Análise e Desenvolvimento de Sistemas** 💻.  
-Atualmente atuando como **Desenvolvedor Salesforce Júnior** e sempre buscando novos desafios na tecnologia.
+Estudante de **Análise e Desenvolvimento de Sistemas** 💻.  
+Atualmente atuando como web developer freelance e buscando novos desafios na tanto em front como em Salesforce. 
 
 ---
 
