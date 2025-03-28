@@ -10,9 +10,10 @@ Atualmente atuando como web developer freelance e buscando novos desafios em fro
 ---
 
 ## 💻 Tecnologias e Conhecimentos
-- ☁️ Salesforce (Apex, LWC, Flows, Process Builder, SOQL/SOSL)
 - 🔎 HTML (Avançado)
 - 🎨 CSS (Intermediário)
+- 📜 JavaScript (Iniciante)
+- ☁️ Salesforce (Apex, LWC, Flows, Process Builder, SOQL/SOSL)
 - 🐍 Python básico
 - ☕ Java básico
 - 🗄️ SQL (iniciando) 
@@ -43,14 +44,7 @@ Atualmente atuando como web developer freelance e buscando novos desafios em fro
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="React"
