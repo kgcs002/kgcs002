@@ -14,8 +14,9 @@ Atualmente atuando como web developer freelance e buscando novos desafios em fro
 - 🎨 CSS (Intermediário)
 - 📜 JavaScript (Iniciante)
 - ☁️ Salesforce (Apex, LWC, Flows, Process Builder, SOQL/SOSL)
-- 🐍 Python básico
+- 🤖 Arduino
 - ☕ Java básico
+- 🐍 Python básico
 - 🗄️ SQL (iniciando) 
 - 🧠 Git e GitHub
 
@@ -47,19 +48,12 @@ Atualmente atuando como web developer freelance e buscando novos desafios em fro
 
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Salesforce" 
     title="Salesforce"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" 
+/>
           
 
 <img 
@@ -68,7 +62,8 @@ Atualmente atuando como web developer freelance e buscando novos desafios em fro
     title="Arduino" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" 
+/>
           
 
 <img 
@@ -80,14 +75,6 @@ Atualmente atuando como web developer freelance e buscando novos desafios em fro
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
 <img 
     align="left" 
     alt="Python" 
@@ -104,6 +91,15 @@ Atualmente atuando como web developer freelance e buscando novos desafios em fro
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <br></br>
