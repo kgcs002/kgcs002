@@ -6,6 +6,12 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas** 💻.  
 Atualmente desenvolvedor pela **Abacatepay**🥑.
 
+---
+
+## 📬 Contato
+- **Email:** kauansasaqui@gmail.com
+- **Instagram:** [@k_g_c_s](https://www.instagram.com/k_g_c_s/)
+- **LinkedIn:** [kgcs02](https://www.linkedin.com/in/kgcs02/)
 
 ---
 
