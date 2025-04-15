@@ -3,7 +3,7 @@
 ### 🚀 Bem-vindo(a) ao meu GitHub!
 
 🎯 **Quem sou eu?**   
-Sou estudante de **Análise e Desenvolvimento de Sistemas** 💻.  
+Brasileiro, estudante de **Análise e Desenvolvimento de Sistemas** 💻.  
 Atualmente desenvolvedor pela **Abacatepay**🥑.
 
 ---
