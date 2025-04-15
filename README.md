@@ -12,6 +12,7 @@ Atualmente desenvolvedor pela **Abacatepay**🥑.
 - **Email:** kauansasaqui@gmail.com
 - **Instagram:** [@k_g_c_s](https://www.instagram.com/k_g_c_s/)
 - **LinkedIn:** [kgcs02](https://www.linkedin.com/in/kgcs02/)
+- **X:** [RefleX2D](https://x.com/RefleX2D)
 
 ---
 
@@ -118,13 +119,6 @@ Atualmente desenvolvedor pela **Abacatepay**🥑.
 - Aprender JavaScript e SQL
 - Projetos práticos em Python e Salesforce
 - Evoluir como Dev Salesforce e Web Developer
-
----
-
-## 📬 Contato
-- **Email:** kauansasaqui@gmail.com
-- **Instagram:** [@k_g_c_s](https://www.instagram.com/k_g_c_s/)
-- **LinkedIn:** [kgcs02](https://www.linkedin.com/in/kgcs02/)
 
 ---
 
