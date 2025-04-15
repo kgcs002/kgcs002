@@ -4,20 +4,22 @@
 
 🎯 **Quem sou eu?**   
 Sou estudante de **Análise e Desenvolvimento de Sistemas** 💻.  
-Atualmente atuando como web developer freelance e buscando novos desafios em front end e Salesforce. 
+Atualmente desenvolvedor pela **Abacatepay**🥑.
 
 
 ---
 
 ## 💻 Tecnologias e Conhecimentos
-- 🔎 HTML (Avançado)
-- 🎨 CSS (Intermediário)
-- 📜 JavaScript (Iniciante)
+- ⚛️ React
+- 📜 JavaScript
+- 📊 TypeScript
+- 🔎 HTML 
+- 🎨 CSS
 - ☁️ Salesforce (Apex, LWC, Flows, Process Builder, SOQL/SOSL)
 - 🤖 Arduino
-- ☕ Java básico
-- 🐍 Python básico
-- 🗄️ SQL (iniciando) 
+- ☕ Java 
+- 🐍 Python 
+- 🗄️ SQL 
 - 🧠 Git e GitHub
 
     <img 
@@ -121,7 +123,7 @@ Atualmente atuando como web developer freelance e buscando novos desafios em fro
 ---
 
 ## ✨ Curiosidades
-- Apaixonado por **aeronaves**, **corrida**, **fotografia** e **montagem de PCs**
+- Apaixonado por **aeronaves**, **corridas automobilísticas**, **fotografia**, **hardware**, **relógios** e o mais importante, minha namorada.
 - Acredito que o código é a ferramenta que dá vida às ideias 💻🚀
 - Sempre em busca de desafios que me tirem da zona de conforto
 
