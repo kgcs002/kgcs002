@@ -4,7 +4,7 @@
 
 🎯 **Quem sou eu?**   
 Brasileiro, estudante de **Análise e Desenvolvimento de Sistemas** 💻.  
-Atualmente desenvolvedor pela **Abacatepay**🥑.
+Dev Front End
 
 ---
 
@@ -27,7 +27,6 @@ Atualmente desenvolvedor pela **Abacatepay**🥑.
 - ☕ Java 
 - 🐍 Python 
 - 🗄️ SQL 
-- 🧠 Git e GitHub
 
     <img 
     align="left" 
@@ -114,10 +113,7 @@ Atualmente desenvolvedor pela **Abacatepay**🥑.
 <br></br>
 
 ## 🎯 Atualmente estou focado em:
-- Encontrar meu primeiro emprego ou estágio como DEV
-- Aprimorar minha lógica de programação
-- Aprender JavaScript e SQL
-- Projetos práticos em Python e Salesforce
+- Projetos Freelance em TypeScript, React, e Python
 - Evoluir como Dev Salesforce e Web Developer
 
 ---
